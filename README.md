@@ -1,72 +1,52 @@
-````markdown
-<h1 align="center">⭐️ Hi, I'm Rana</h1>
-<h3 align="center">Computer Science Student at the University of Toronto</h3>
+# ✨ Hi! I'm Rana  
+### Computer Science Student at the University of Toronto
+## 🧕 About Me
 
-<p align="center">
-  <a href="https://github.com/rananagash">GitHub</a> • 
-  <a href="https://www.linkedin.com/in/rana-nagash/">LinkedIn</a> • 
-  <a href="mailto:nagashrana@gmail.com">Email</a>
+- Computer Science student with interests in web development, machine learning, and systems.
+- Currently building a learning-focused application (launching soon).
+- I enjoy photography, painting, drawing, and playing basketball outside of tech. 📸🎨
+- First-year learning community peer mentor for first-year computer science students.
+
+<p float="left">
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNW1xZHpvYjdpdG01eXdhZmh3NWhsNzhjdDdzeXQ0dW5pNHJ1OTZtcSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/xhX1qFxqmDNHG/giphy.gif" width="200" height="112" />
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExYzVxbGNyNDA3bzEyaWp4YjA1cTd6anhoajJnazV3cWZjZTNjdG9tYSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/26tn33aiTi1jkl6H6/giphy.gif" width="200" />
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExaXdwNGtlaTJoaHZ4cWNjamV5bnY0OWFxbmc2YTRwYmNudmcwdmJqdiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/3oz8xur099boo4N9aU/giphy.gif" width="200" />
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExaXlpNGttbnZxeHA2ODc2bmliaTJqa2l0NHl5M2psaXl1amdydTFlZyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/ViaqlyyNZGMyA/giphy.gif" width="200" />
 </p>
 
----
 
-## About Me
+## 💻 Tech Stack
 
-```js
-const aboutMe = {
-  languages: ["JavaScript", "TypeScript", "Python", "Java", "C", "Assembly"],
-  interests: ["web development", "machine learning", "systems"],
-  technologies: {
-    frontend: ["React", "Tailwind"],
-    backend: ["Node.js", "Express"],
-    databases: ["MongoDB", "NoSQL"],
-    devops: ["AWS", "Docker"],
-    tools: ["Git", "VS Code", "Figma"],
-    ml: {
-      frameworks: ["PyTorch", "TensorFlow", "scikit-learn"],
-      data: ["Pandas", "NumPy"],
-      visualization: ["Matplotlib", "Seaborn", "Plotly"]
-    }
-  },
-  currentFocus: "Building a learning-focused application (launching soon)",
-  interestsOutsideTech: ["photography", "painting", "drawing", "ice skating"]
-};
-````
+**Languages**  
+- JavaScript, TypeScript, Python, Java, C, Assembly
 
----
+**Frameworks & Libraries**  
+- React, Node.js, Express  
+- PyTorch, TensorFlow, scikit-learn
 
-## Pinned Projects
+**Data & Visualization**  
+- Pandas, NumPy  
+- Matplotlib, Seaborn, Plotly
 
-* **[Team Project](https://github.com/rananagash/team-project)**
-  Collaborative full-stack Java project - Movie Tracker App.
+**Infrastructure & Tools**  
+- AWS, Docker  
+- Git, VS Code, Figma  
+- MongoDB, NoSQL
 
-* **[Air Quality ML](https://github.com/rananagash/air-quality-ml)**
+
+## 📌 Pinned Projects
+
+- **[Team Project](https://github.com/rananagash/team-project)**  
+  Collaborative full-stack project.
+
+- **[Air Quality ML](https://github.com/rananagash/air-quality-ml)**  
   Machine learning models for air quality analysis and prediction.
 
----
 
 ## Experience
 
-* **Software Engineer**, Bibber
+- **Software Engineer**, Bibber  
   Mobile and web development.
 
-* **Machine Learning Research Assistant**, BalanceAI
-  Research and prototyping of ML language assessment models.
-
----
-
-## Tech Stack
-
-**Languages:**
-JavaScript, TypeScript, Python, Java, C, Assembly
-
-**Frameworks & Libraries:**
-React, Node.js, Express, PyTorch, TensorFlow, scikit-learn
-
-**Data & ML:**
-Pandas, NumPy, Matplotlib, Seaborn, Plotly
-
-**Infrastructure & Tools:**
-AWS, Docker, Git, VS Code, Figma
-
-```
+- **Machine Learning Research Assistant**, BalanceAI  
+  Research and prototyping of ML models.
