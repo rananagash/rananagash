@@ -36,8 +36,8 @@
 
 ## 📌 Pinned Projects
 
-- **[Team Project](https://github.com/rananagash/team-project)**  
-  Collaborative full-stack project.
+- **[Movie Tracker](https://github.com/rananagash/team-project)**  
+  Full-stack Java project that tracks your favourite movies, movies you want to watch, and more.
 
 - **[Air Quality ML](https://github.com/rananagash/air-quality-ml)**  
   Machine learning models for air quality analysis and prediction.
