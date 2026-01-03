@@ -2,7 +2,7 @@
 ### Computer Science Student at the University of Toronto
 ## 🧕 About Me
 
-- Computer Science student with interests in web development, machine learning, and systems.
+- Computer Science student in web development and open-source development (currently looking to collaborate).
 - Currently building a learning-focused application (launching soon).
 - I enjoy photography, painting, drawing, and playing basketball outside of tech. 📸🎨
 - First-year learning community peer mentor for first-year computer science students.
