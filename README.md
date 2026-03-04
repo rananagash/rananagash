@@ -4,14 +4,10 @@
 
 - Computer Science student in web development and open-source development (currently looking to collaborate).
 - Currently building a learning-focused application (launching soon).
-- I enjoy photography, painting, drawing, and playing basketball outside of tech. 📸🎨
 - First-year learning community peer mentor for first-year computer science students.
 
 <p float="left">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNW1xZHpvYjdpdG01eXdhZmh3NWhsNzhjdDdzeXQ0dW5pNHJ1OTZtcSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/xhX1qFxqmDNHG/giphy.gif" width="200" height="112" />
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExYzVxbGNyNDA3bzEyaWp4YjA1cTd6anhoajJnazV3cWZjZTNjdG9tYSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/26tn33aiTi1jkl6H6/giphy.gif" width="200" />
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExaXdwNGtlaTJoaHZ4cWNjamV5bnY0OWFxbmc2YTRwYmNudmcwdmJqdiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/3oz8xur099boo4N9aU/giphy.gif" width="200" />
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExaXlpNGttbnZxeHA2ODc2bmliaTJqa2l0NHl5M2psaXl1amdydTFlZyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/ViaqlyyNZGMyA/giphy.gif" width="200" />
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcWhnbmZvd21rcGh0MG9kNW05OWM4aDVseDZmcTBic3BtNTN5am5qdSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/scZPhLqaVOM1qG4lT9/giphy.gif" width="200" height="112" />
 </p>
 
 
