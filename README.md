@@ -41,6 +41,8 @@
 
 ## Experience
 
+- **Software Engineer Intern**, Spruce InfoTech
+  
 - **Software Engineer**, Bibber  
   Mobile and web development.
 
