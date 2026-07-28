@@ -2,8 +2,8 @@
 ### Computer Science Student at the University of Toronto
 ## 🧕 About Me
 
-- Computer Science student in web development and open-source development (currently looking to collaborate).
-- Currently building a learning-focused application (launching soon).
+- Computer Science student interested in web development and open-source development.
+- Currently building a learning-focused application.
 - Working as a peer mentor for first-year computer science students.
 
 <p float="left">
