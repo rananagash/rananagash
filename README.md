@@ -10,8 +10,8 @@
 
 ## 💻 Tech Stack
 
-**Languages & Databases:** Java, C, Python, TypeScript, JavaScript, SQL, Kotlin
-**Frameworks & Tools:** Spring Boot, NestJS, Express.js, Redis, GCP, Supabase, Next.js, React, Git
+- **Languages & Databases:** Java, C, Python, TypeScript, JavaScript, SQL, Kotlin
+- **Frameworks & Tools:** Spring Boot, NestJS, Express.js, Redis, GCP, Supabase, Next.js, React, Git
 
 
 ## 📌 Pinned Projects
