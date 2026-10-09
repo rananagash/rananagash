@@ -1,7 +1,6 @@
 # Hi! I'm Rana  
-### Computer Science Student at the University of Toronto
 
-- Computer Science student interested in full-stack development and agentic systems.
+I'm a Computer Science student currently studying at the University of Toronto. I'm interested in full-stack development and agentic systems.
 
 <p float="left">
   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcWhnbmZvd21rcGh0MG9kNW05OWM4aDVseDZmcTBic3BtNTN5am5qdSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/scZPhLqaVOM1qG4lT9/giphy.gif" width="160" height="112" />
@@ -25,7 +24,7 @@
 
 ## Experience
 
-- **Software Engineer Intern**, Spruce InfoTech
+- **Software Engineer Intern**, Spruce InfoTech  
   Full-stack AI multi-agent architecture and development.
   
 - **Software Engineer**, Bibber  
